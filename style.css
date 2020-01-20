@@ -57,6 +57,7 @@ a {
   padding: 10% 10%
 }
 
+
 a .page-header hover {
   background-color: #E71D36;
   border: solid white;
@@ -77,4 +78,10 @@ padding: 5% 10%
 
 }
 
+.footer-date {
+  padding-bottom: 0px;
+  color: #E71D36;
+  text-align: right;
+  font-family: sans-serif;
+  font-size: 10px;
 }
