@@ -1,0 +1,12 @@
+body {
+  background: #E71D36 url(sadpepa.png) center;
+}
+
+p {
+  font-family: fantasy;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 100px;
+  background-color: #2EC4B6;
+  color: #011627;
+}
